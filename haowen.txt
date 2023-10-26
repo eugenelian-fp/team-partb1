@@ -1,3 +1,7 @@
 This is hello from limhaowen. I am adding a new line of code here.
 
-Hello again. I am here to add in a second line. I am limhaowen
+Hello again. I am here to add in a second line. I am limhaowen.
+
+This is hello from haowen. I am adding a new line of code here for direct branch push.
+
+Hello again. I am here to add in a second line for direct branch push. I am haowen.
